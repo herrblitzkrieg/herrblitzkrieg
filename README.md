@@ -5,4 +5,4 @@
 - ⚡ Fun fact: I have a soft spot for cheese cake :)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=herrblitzkrieg&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=herrblitzkrieg&background=ffffff&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun)](https://git.io/streak-stats)
