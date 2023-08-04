@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning to fully unpack (and devirtualize) famous and lesser known packers.
+- 🌱 I’m currently learning to fully unpack (and devirtualize) famous and lesser known PE packers.
 - 👯 I’m looking to collaborate on developing scripts to help rebuilt PE files.
 - ⚡ Fun fact: I have a soft spot for cheese cake :)
 
